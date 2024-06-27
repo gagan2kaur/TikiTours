@@ -1,0 +1,97 @@
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color:#000000;
+  
+}
+  
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;
+	text-align:left;
+	
+}
+
+
+li {
+  float:left;
+  margin-left:48px;
+  padding-top:0px;
+  position:static;
+  left:90px;
+  top:0px;
+  background-color:#000000;
+  
+}
+
+li a {
+  display:block;
+  padding: 20px 100px;
+  text-align:centre;
+  background-color:#000000;
+  color:white;
+  
+
+ 
+}  
+    .search
+	{
+		margin-left:350px;
+		width:600px;
+		margin-top:-50px;
+		
+	}
+
+  logo {
+	  float:left;
+	  padding:10px;
+	  
+  }
+	  
+ header input[type=text]{
+  float: centre;
+  padding: 50px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  }  
+  
+  
+.pright
+{
+	position:absolute;
+	right:400px;
+height:400px;
+width:700px;
+display:inline;
+margin-left:300px;
+margin-top:5px;
+
+
+}
+
+.Mapimage 
+{
+	position:absolute;
+	right:500px;
+width:550px;
+height:350px;
+border:1px solid black;
+padding:10px;
+margin-top:-160px;
+
+}
+footer p{
+	position:absolute;
+	
+}
+
+.Mission
+{
+	text-decoration:underline;
+	
+}
